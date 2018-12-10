@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Spawns a chicken at your deathpoint and show position in chat.",
+        "name": "Death Chicken",
+        "uuid": "28321d62-db9b-4fd1-84ab-743ffb87e05e",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 9, 0]
+    },
+    "modules": [
+        {
+            "description": "Spawns a chicken at your deathpoint and show position in chat.",
+            "type": "data",
+            "uuid": "d9263845-eb02-4e34-a2dc-c4ea3e45fa46",
+            "version": [1, 0, 0]
+        }
+    ]
+}
